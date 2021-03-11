@@ -1,0 +1,10 @@
+def lenx(x , y , z , e):
+  xl = len(x)
+  yl = len(y)
+  zl = len(z)
+  res = xl * yl - zl
+  no = "nope/n" * e
+  if xl == yl / zl:
+    print(res)
+  else:
+    print(no)
