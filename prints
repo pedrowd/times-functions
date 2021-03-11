@@ -1,4 +1,4 @@
-def printx(x , y):
+def printx(x, y):
   print(x * y)
   if x == y:
     print("ERROR")
