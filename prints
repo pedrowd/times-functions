@@ -2,3 +2,4 @@ def printx(x , y):
   print(x * y)
   if x == y:
     print("ERROR")
+printx("te amo/n" , 10)
