@@ -1,5 +1,6 @@
 def binx(x , y):
-  bin(x * y)
+  res = bin(x * y)
+  print(res)
   if x == y:
     print("ERROR")
-binx("11" , "2")
+binx(11 , 2)
