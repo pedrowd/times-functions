@@ -2,3 +2,4 @@ def binx(x , y):
   bin(x * y)
   if x == y:
     print("ERROR")
+binx("11" , "2")
