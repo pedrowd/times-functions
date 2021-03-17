@@ -1,0 +1,6 @@
+def printxv2(x)
+  xl = len(x)
+  er = "error"
+  print(x * xl)
+  if x == 1:
+    print(er)
