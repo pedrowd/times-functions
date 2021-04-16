@@ -4,3 +4,5 @@ def printxv2(x)
   print(x * xl)
   if x == 1:
     print(er)
+printxv2(5)
+printxv2(1)
